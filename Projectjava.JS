@@ -80,4 +80,9 @@ var Mujadara = {origin:"mideastern", type:"veg",time:10,link:"https://www.youtub
 var Musakhan = {origin:"mideastern", type:"nonveg",time:10,link:"https://www.youtube.com/watch?v=WMEjf74CF7E"};
 var Falafel = {origin:"mideastern", type:"nonveg",time:30,link:"https://www.youtube.com/watch?v=foB6bxhZYF0"};
 var Hummus = {origin:"mideastern", type:"nonveg",time:30,link:"https://www.youtube.com/watch?v=IRECUDMZteA"};
+
+var d1 = {origin:"mideastern", type:"nonveg",time:10,link:"https://www.youtube.com/watch?v=WMEjf74CF7E"};
+var d2 = {origin:"mideastern", type:"nonveg",time:10,link:"https://www.youtube.com/watch?v=VSXk_DVhEQw"};
+var d3 = {origin:"mideastern", type:"nonveg",time:30,link:"https://www.youtube.com/watch?v=TSneWppr_PE"};
+var d4 = {origin:"mideastern", type:"nonveg",time:30,link:"https://www.youtube.com/watch?v=R53gjvkoubQ"};
 //document.write(final);
